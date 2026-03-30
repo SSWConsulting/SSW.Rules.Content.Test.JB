@@ -2,6 +2,7 @@
 
 
 
+
 <img src="https://raw.githubusercontent.com/SSWConsulting/SSW.Rules.Content/main/_docs/images/ssw-banner.png">
 
 # The SSW Rules content 📜
